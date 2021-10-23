@@ -1,0 +1,28 @@
+D:\OpenGL projects\Programacion grafica\tarea 3\bin\x64\Debug\netcoreapp3.1\Tarea 3.exe
+D:\OpenGL projects\Programacion grafica\tarea 3\bin\x64\Debug\netcoreapp3.1\Tarea 3.deps.json
+D:\OpenGL projects\Programacion grafica\tarea 3\bin\x64\Debug\netcoreapp3.1\Tarea 3.runtimeconfig.json
+D:\OpenGL projects\Programacion grafica\tarea 3\bin\x64\Debug\netcoreapp3.1\Tarea 3.runtimeconfig.dev.json
+D:\OpenGL projects\Programacion grafica\tarea 3\bin\x64\Debug\netcoreapp3.1\Tarea 3.dll
+D:\OpenGL projects\Programacion grafica\tarea 3\bin\x64\Debug\netcoreapp3.1\Tarea 3.pdb
+D:\OpenGL projects\Programacion grafica\tarea 3\bin\x64\Debug\netcoreapp3.1\OpenTK.Compute.dll
+D:\OpenGL projects\Programacion grafica\tarea 3\bin\x64\Debug\netcoreapp3.1\OpenTK.Core.dll
+D:\OpenGL projects\Programacion grafica\tarea 3\bin\x64\Debug\netcoreapp3.1\OpenTK.Graphics.dll
+D:\OpenGL projects\Programacion grafica\tarea 3\bin\x64\Debug\netcoreapp3.1\OpenTK.Input.dll
+D:\OpenGL projects\Programacion grafica\tarea 3\bin\x64\Debug\netcoreapp3.1\OpenTK.Mathematics.dll
+D:\OpenGL projects\Programacion grafica\tarea 3\bin\x64\Debug\netcoreapp3.1\OpenTK.OpenAL.dll
+D:\OpenGL projects\Programacion grafica\tarea 3\bin\x64\Debug\netcoreapp3.1\OpenTK.Windowing.Common.dll
+D:\OpenGL projects\Programacion grafica\tarea 3\bin\x64\Debug\netcoreapp3.1\OpenTK.Windowing.Desktop.dll
+D:\OpenGL projects\Programacion grafica\tarea 3\bin\x64\Debug\netcoreapp3.1\OpenTK.Windowing.GraphicsLibraryFramework.dll
+D:\OpenGL projects\Programacion grafica\tarea 3\bin\x64\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+D:\OpenGL projects\Programacion grafica\tarea 3\bin\x64\Debug\netcoreapp3.1\runtimes\linux-x64\native\libglfw.so.3.3
+D:\OpenGL projects\Programacion grafica\tarea 3\bin\x64\Debug\netcoreapp3.1\runtimes\osx-x64\native\libglfw.3.dylib
+D:\OpenGL projects\Programacion grafica\tarea 3\bin\x64\Debug\netcoreapp3.1\runtimes\win-x64\native\glfw3.dll
+D:\OpenGL projects\Programacion grafica\tarea 3\bin\x64\Debug\netcoreapp3.1\runtimes\win-x86\native\glfw3.dll
+D:\OpenGL projects\Programacion grafica\tarea 3\obj\x64\Debug\netcoreapp3.1\Tarea 3.csprojAssemblyReference.cache
+D:\OpenGL projects\Programacion grafica\tarea 3\obj\x64\Debug\netcoreapp3.1\Tarea 3.AssemblyInfoInputs.cache
+D:\OpenGL projects\Programacion grafica\tarea 3\obj\x64\Debug\netcoreapp3.1\Tarea 3.AssemblyInfo.cs
+D:\OpenGL projects\Programacion grafica\tarea 3\obj\x64\Debug\netcoreapp3.1\Tarea 3.csproj.CoreCompileInputs.cache
+D:\OpenGL projects\Programacion grafica\tarea 3\obj\x64\Debug\netcoreapp3.1\Tarea 3.csproj.CopyComplete
+D:\OpenGL projects\Programacion grafica\tarea 3\obj\x64\Debug\netcoreapp3.1\Tarea 3.dll
+D:\OpenGL projects\Programacion grafica\tarea 3\obj\x64\Debug\netcoreapp3.1\Tarea 3.pdb
+D:\OpenGL projects\Programacion grafica\tarea 3\obj\x64\Debug\netcoreapp3.1\Tarea 3.genruntimeconfig.cache
